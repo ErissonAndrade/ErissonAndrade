@@ -1,16 +1,23 @@
-### Hi there 👋
+👋 Hello, I'm Erisson Andrade!
 
-<!--
-**ErissonAndrade/ErissonAndrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Full Stack Developer | JavaScript Enthusiast
 
-Here are some ideas to get you started:
+💼 Seeking my first opportunity in the IT industry
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 Skills:
+- JavaScript (ES6+)
+- React.js
+- Express.js
+- MongoDB
+- Jest (Unit Testing)
+- C# .NET (Basic Knowledge)
+
+🔧 I have a background in Mechanical Engineering and Teaching, but I'm passionate about transitioning to the world of software development. I enjoy building robust and scalable applications with a focus on back-end development.
+
+💡 Currently honing my skills in web development and exploring new technologies to stay up-to-date with the latest industry trends.
+
+🌎 Fluent in English and Brazilian Portuguese.
+
+📫 Let's connect! Feel free to reach out to me through GitHub or Linkedin.
+
+✨ Open to new opportunities and collaborations.
