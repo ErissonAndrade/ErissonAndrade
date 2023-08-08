@@ -2,7 +2,7 @@
 
 👨‍💻 Full Stack Developer | JavaScript Enthusiast
 
-💼 Seeking my first opportunity in the IT industry
+💼 Seeking my first opportunity as a developer
 
 🌟 Skills:
 - JavaScript (ES6+)
