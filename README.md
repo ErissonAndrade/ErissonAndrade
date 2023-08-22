@@ -1,16 +1,16 @@
 👋 Hello, I'm Erisson Andrade!
 
-👨‍💻 Full Stack Developer | JavaScript Enthusiast
-
-💼 Seeking my first opportunity as a developer
+👨‍💻 Full Stack Developer
 
 🌟 Skills:
-- JavaScript (ES6+)
+- JavaScript 
 - React.js
+- Node.js
 - Express.js
 - MongoDB
-- Jest (Unit Testing)
-- C# .NET (Basic Knowledge)
+- MySQL
+- Unit Testing(Jest)
+- C#(.NET Core)
 
 🔧 I have a background in Mechanical Engineering and Teaching, but I'm passionate about transitioning to the world of software development. I enjoy building robust and scalable applications with a focus on back-end development.
 
