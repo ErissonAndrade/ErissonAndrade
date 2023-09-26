@@ -3,14 +3,16 @@
 👨‍💻 Full Stack Developer
 
 🌟 Skills:
-- JavaScript 
+- Java(Spring Boot)
+- C#(.NET)
+- JavaScript
 - React.js
 - Node.js
 - Express.js
 - MongoDB
-- MySQL
+- SQL
 - Unit Testing(Jest)
-- C#(.NET Core)
+
 
 🔧 I have a background in Mechanical Engineering and Teaching, but I'm passionate about transitioning to the world of software development. I enjoy building robust and scalable applications with a focus on back-end development.
 
