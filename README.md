@@ -9,11 +9,14 @@
 - .NET
 - ASP.NET
 - JavaScript
+- Angular
 - React.js
 - Node.js
 - Express.js
 - MongoDB
 - SQL
+- PostgreSQL
+- MySQL
 - Test Driven Development
 
 
