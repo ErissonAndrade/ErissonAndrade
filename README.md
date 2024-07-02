@@ -3,13 +3,14 @@
 👨‍💻 Full Stack Developer
 
 🌟 Skills:
-- Java
-- Spring Boot
 - C#
 - .NET
 - ASP.NET
-- JavaScript
 - Angular
+- Flutter
+- Java
+- Spring Boot
+- JavaScript
 - React.js
 - Node.js
 - Express.js
